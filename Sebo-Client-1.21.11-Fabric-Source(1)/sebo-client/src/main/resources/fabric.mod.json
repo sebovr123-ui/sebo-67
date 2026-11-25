@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"sebo","version":"0.1.0","name":"Sebo Client","description":"Modular block scanner and client HUD for permitted worlds.","environment":"client","entrypoints":{"client":["dev.sebo.client.SeboClient"]},"mixins":["sebo.mixins.json"],"depends":{"fabricloader":">=0.18.4","minecraft":"1.21.11","java":">=21","fabric-api":"*"}}
